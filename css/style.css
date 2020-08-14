@@ -5,3 +5,9 @@ body {
 .navbar-brand {
     font-size: 32px;
 }
+
+footer {
+    background-color: darkgray;
+    text-align: center;
+    padding: 20px;
+}
