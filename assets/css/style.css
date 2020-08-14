@@ -38,6 +38,7 @@ figure {
 .aboutmeimage {
     float: left;
     margin: 10px 10px 0px 0px;
+    width: 50%;
 }
 
 footer {
