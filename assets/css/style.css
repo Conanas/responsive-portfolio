@@ -27,9 +27,8 @@ body {
 .aboutsection {
     overflow: auto;
     margin: 24px;
+    font-size: 16px;
 }
-
-.aboutsection p {}
 
 figure {
     margin: 0px;
