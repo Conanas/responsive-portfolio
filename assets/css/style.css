@@ -21,17 +21,23 @@ body {
 
 .aboutheading {
     padding: 10px;
+    margin: 10px;
 }
 
 .aboutsection {
     overflow: auto;
-    margin: 10px;
+    margin: 24px;
 }
 
 .aboutsection p {}
 
+figure {
+    margin: 0px;
+}
+
 .aboutmeimage {
     float: left;
+    margin: 10px 10px 0px 0px;
 }
 
 footer {
