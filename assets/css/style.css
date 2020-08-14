@@ -6,6 +6,18 @@ body {
     font-size: 32px;
 }
 
+.background {
+    background-image: url(../images/cool-background.png);
+}
+
+.about {
+    overflow: auto;
+}
+
+.aboutmeimage {
+    float: left;
+}
+
 footer {
     background-color: darkgray;
     text-align: center;
