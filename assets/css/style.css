@@ -76,4 +76,13 @@ footer {
     form {
         width: 75%;
     }
+    .portfolioimagesrow {
+        margin: 0px;
+    }
+    .portfolioimagescol {
+        padding: 0px;
+    }
+    .portfolioimagescontainer {
+        padding: 0px;
+    }
 }
