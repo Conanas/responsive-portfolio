@@ -18,6 +18,10 @@ li {
     overflow: auto;
 }
 
+figure {
+    margin: 0px;
+}
+
 main {
     width: 90%;
     margin: auto;
@@ -33,12 +37,12 @@ section {
 }
 
 form {
-    margin: 24px;
+    padding: 0px 24px 24px 24px;
     font-size: 16px;
 }
 
-figure {
-    margin: 0px;
+label {
+    margin-top: 0.5rem;
 }
 
 .aboutmeimage {
