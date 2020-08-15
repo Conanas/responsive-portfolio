@@ -24,6 +24,7 @@ main {
     margin-top: 100px;
     margin-bottom: 100px;
     background-color: white;
+    padding: 16px;
 }
 
 section {
@@ -45,6 +46,14 @@ label {
     float: left;
     margin-right: 10px;
     width: 50%;
+}
+
+.portfolioimagescol {
+    padding: 16px;
+}
+
+.portfolioimages {
+    width: 100%;
 }
 
 footer {
