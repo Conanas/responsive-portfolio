@@ -58,17 +58,21 @@ footer {
 }
 
 @media screen and (min-width: 480px) {
-    .aboutmain {
+    main {
         margin-left: 50px;
         width: 85%;
         max-width: 400px;
     }
-}
-
-@media screen and (min-width: 768px) {
-    .aboutmain {
-        max-width: 600px;
+    form {
+        width: 85%;
     }
 }
 
-@media screen and (min-width: 900px) {}
+@media screen and (min-width: 768px) {
+    main {
+        max-width: 600px;
+    }
+    form {
+        width: 75%;
+    }
+}
