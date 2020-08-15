@@ -1,7 +1,6 @@
 h1 {
-    padding: 10px;
-    margin: 10px;
     font-size: 48px;
+    margin: 0px;
 }
 
 .navbar-brand {
@@ -27,7 +26,6 @@ section {
 }
 
 form {
-    padding: 0px 24px 24px 24px;
     font-size: 16px;
 }
 
@@ -42,7 +40,7 @@ label {
 }
 
 .portfolioimagescol {
-    padding: 16px;
+    padding: 16px 0px;
 }
 
 .portfolioimages {
