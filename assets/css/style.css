@@ -39,12 +39,9 @@ label {
     width: 50%;
 }
 
-.portfolioimagescol {
-    padding: 16px 0px;
-}
-
 .portfolioimages {
     width: 100%;
+    padding: 15px 0px 15px 0px;
 }
 
 footer {
@@ -75,17 +72,5 @@ footer {
     }
     form {
         width: 75%;
-    }
-    .portfolioimagescontainer {
-        padding: 0px;
-    }
-    .portfolioimagesrow {
-        margin: 0px;
-    }
-    .portfolioimagescol {
-        padding: 16px 32px 16px 0px;
-    }
-    .portfolioimagessubcol {
-        padding: 8px 16px 8px 0px;
     }
 }
