@@ -6,4 +6,20 @@ The Portfolio Images are layed out in a grid using the Bootstrap Layout system. 
 
 # Screenshots
 
-![alt text](./assets/screenshots/about-mobile.png "Logo Title Text 1")
+![alt text](./assets/screenshots/about-mobile.png "About Me Mobile")
+
+![alt text](./assets/screenshots/about-tablet.png "About Me Tablet")
+
+![alt text](./assets/screenshots/about-desktop.png "About Me Desktop")
+
+![alt text](./assets/screenshots/contact-mobile.png "Contact Mobile")
+
+![alt text](./assets/screenshots/contact-tablet.png "Contact Tablet")
+
+![alt text](./assets/screenshots/contact-desktop.png "Contact Desktop")
+
+![alt text](./assets/screenshots/portfolio-mobile.png "Portfolio Mobile")
+
+![alt text](./assets/screenshots/portfolio-tablet.png "Portfolio Tablet")
+
+![alt text](./assets/screenshots/portfolio-desktop.png "Portfolio Desktop")
