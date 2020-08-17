@@ -1,3 +1,5 @@
+/* heading and navbar on all pages */
+
 .navbar-brand {
     font-size: 32px;
     margin: 8px;
@@ -7,6 +9,9 @@ li {
     font-size: 24px;
 }
 
+
+/* main of all pages */
+
 main {
     width: 100%;
     margin: auto;
@@ -14,24 +19,46 @@ main {
     padding: 16px;
 }
 
+
+/* section on all pages */
+
 section {
     overflow: auto;
     margin: 24px;
     font-size: 16px;
 }
 
+
+/* heading on all sections of all pages */
+
 h1 {
     font-size: 48px;
     margin: 0px;
 }
 
+
+/* form on contact page */
+
 form {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 label {
     margin-top: 0.5rem;
 }
+
+input {
+    padding: 8px;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    padding: 8px;
+}
+
+
+/* image on about me page */
 
 .aboutmeimage {
     float: left;
@@ -39,10 +66,16 @@ label {
     width: 50%;
 }
 
+
+/* images on portfolio page */
+
 .portfolioimages {
     width: 100%;
     padding: 15px 0px 15px 0px;
 }
+
+
+/* footer on all pages */
 
 footer {
     background-color: #f8f9fa;
@@ -50,10 +83,18 @@ footer {
     padding: 20px;
 }
 
+
+/* media queries */
+
+
+/* small screens and larger (small tablets, large mobile) */
+
 @media screen and (min-width: 576px) {
+    /* background image for all pages */
     body {
         background-image: url(../images/background-image/bush.png);
     }
+    /* main for all pages */
     main {
         margin-left: 50px;
         margin-top: 100px;
@@ -61,15 +102,21 @@ footer {
         width: 85%;
         max-width: 400px;
     }
+    /* form on contact page */
     form {
         width: 85%;
     }
 }
 
+
+/* medium screens and larger (large tablet, desktops) */
+
 @media screen and (min-width: 768px) {
+    /* main for all pages */
     main {
         max-width: 600px;
     }
+    /* form on contact page */
     form {
         width: 75%;
     }
