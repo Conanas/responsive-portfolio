@@ -52,7 +52,7 @@ footer {
 
 @media screen and (min-width: 576px) {
     body {
-        background-image: url(../images/bush.png);
+        background-image: url(../images/background-image/bush.png);
     }
     main {
         margin-left: 50px;
