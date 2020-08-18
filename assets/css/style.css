@@ -1,3 +1,18 @@
+/* html for sticky footer */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+
+/* body for sticky footer */
+
+body {
+    margin-bottom: 105.6px;
+}
+
+
 /* header and navbar on all pages */
 
 .navbar-brand {
@@ -81,6 +96,10 @@ footer {
     background-color: #f8f9fa;
     text-align: center;
     padding: 20px;
+    /* sticky footer code */
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 
@@ -98,7 +117,8 @@ footer {
     main {
         margin-left: 50px;
         margin-top: 100px;
-        margin-bottom: 100px;
+        /* margin-bottom 100px + 205.6px for sticky footer height */
+        margin-bottom: 205.6px;
         width: 85%;
         max-width: 400px;
     }
